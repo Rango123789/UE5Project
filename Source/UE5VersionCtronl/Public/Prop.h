@@ -24,6 +24,6 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 	//Added variable for test:
-	float myvar = 5;
+	float myvar = 6;
 
 };
